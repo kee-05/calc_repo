@@ -1,2 +1,2 @@
 # calc_repo
-demo
+this is program about addotion,subtraction
